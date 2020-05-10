@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GoProNamingCoreTool</id>
+    <version>1.0.0</version>
+    <authors>GoProNamingCoreTool</authors>
+    <owners>GoProNamingCoreTool</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.dll" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.dll" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.deps.json" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.deps.json" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.runtimeconfig.json" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.runtimeconfig.json" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.pdb" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.pdb" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProFileNaming.dll" target="tools\netcoreapp3.1\any\GoProFileNaming.dll" />
+  </files>
+</package>

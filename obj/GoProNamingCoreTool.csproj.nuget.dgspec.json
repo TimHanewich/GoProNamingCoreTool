@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\TaHan\\Downloads\\GoProNamingCoreTool\\GoProNamingCoreTool.csproj",
-        "projectName": "GoProNamingCoreTool",
+        "projectName": "GoProNamingTool",
         "projectPath": "C:\\Users\\TaHan\\Downloads\\GoProNamingCoreTool\\GoProNamingCoreTool.csproj",
         "packagesPath": "C:\\Users\\TaHan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\TaHan\\Downloads\\GoProNamingCoreTool\\obj\\",
@@ -40,7 +40,7 @@
           "dependencies": {
             "GoProFileNaming": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

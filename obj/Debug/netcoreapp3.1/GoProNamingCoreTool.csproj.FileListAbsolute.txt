@@ -11,3 +11,5 @@ C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNaming
 C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.dll
 C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.pdb
 C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.genruntimeconfig.cache
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProFileNaming.dll
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.csproj.CopyComplete

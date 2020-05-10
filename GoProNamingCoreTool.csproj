@@ -6,10 +6,28 @@
 
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>gpnaming</ToolCommandName>
+    <PackageId>GoProNamingTool</PackageId>
+    <Authors>Tim Hanewich</Authors>
+    <Company>Tim Hanewich</Company>
+    <Product>GoProNamingTool</Product>
+    <Description>GoPro video file naming convention helper.</Description>
+    <PackageIcon>GoProLogoSquare.png</PackageIcon>
+    <RepositoryUrl>https://github.com/TimHanewich/GoProNamingCoreTool</RepositoryUrl>
+    <PackageTags>gopro,file naming,naming,tool</PackageTags>
+    <AssemblyVersion>0.0.0.0</AssemblyVersion>
+    <FileVersion>0.0.0.0</FileVersion>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="GoProFileNaming" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="GoProLogoSquare.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

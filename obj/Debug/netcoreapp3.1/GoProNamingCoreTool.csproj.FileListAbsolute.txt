@@ -1,0 +1,13 @@
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.exe
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.deps.json
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.runtimeconfig.json
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.runtimeconfig.dev.json
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.dll
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\GoProNamingCoreTool.pdb
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.csprojAssemblyReference.cache
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.csproj.CoreCompileInputs.cache
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.AssemblyInfoInputs.cache
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.AssemblyInfo.cs
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.dll
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.pdb
+C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\Debug\netcoreapp3.1\GoProNamingCoreTool.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>GoProNamingTool</id>
+    <version>1.0.0</version>
+    <authors>Tim Hanewich</authors>
+    <owners>Tim Hanewich</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <icon>GoProLogoSquare.png</icon>
+    <description>GoPro video file naming convention helper.</description>
+    <tags>gopro,file naming,naming,tool</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository url="https://github.com/TimHanewich/GoProNamingCoreTool" />
+  </metadata>
+  <files>
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.dll" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.dll" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.deps.json" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.deps.json" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.runtimeconfig.json" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.runtimeconfig.json" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProNamingCoreTool.pdb" target="tools\netcoreapp3.1\any\GoProNamingCoreTool.pdb" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\bin\Debug\netcoreapp3.1\publish\GoProFileNaming.dll" target="tools\netcoreapp3.1\any\GoProFileNaming.dll" />
+    <file src="C:\Users\TaHan\Downloads\GoProNamingCoreTool\GoProLogoSquare.png" target="GoProLogoSquare.png" />
+  </files>
+</package>
